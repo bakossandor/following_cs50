@@ -51,5 +51,6 @@ Pseudocode is an informal high-level description of the operating principle of a
 
 #### C
 
-[#### Hello World!](./examples_c/hello_world.c)
-[#### conditions](./examples_c/conditions.c)
+[Hello World!](./examples_c/hello_world.c)
+
+[conditions](./examples_c/conditions.c)
