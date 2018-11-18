@@ -12,10 +12,8 @@
 * floating point values (example)
 * math operators (example)
 * doubles (example)
-* undeclared vacriables (example)
-* prototype for a function (example)
-* scopes (example)
-* over and underflowing binary numbers (example)
+* scopes
+* over and underflowing binary numbers
 
 #### Binary Numbers
 In mathematics and digital electronics, a binary number is a number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically 0 (zero) and 1 (one).
@@ -23,14 +21,13 @@ In mathematics and digital electronics, a binary number is a number expressed in
 The base-2 numeral system is a positional notation with a radix of 2. Each digit is referred to as a bit. Because of its straightforward implementation in digital electronic circuitry using logic gates, the binary system is used by almost all modern computers and computer-based devices.
 
 Any number can be represented by a sequence of bits.
-
-0001 - 1
-1000 - 8
-1111 - 15
-11111111 - 255
+* 0001 - 1
+* 1000 - 8
+* 1111 - 15
+* 11111111 - 255
 
 local values representation of a byte
-128 - 64 - 32- 16 - 8 - 4 - 2 - 1
+* 128 - 64 - 32- 16 - 8 - 4 - 2 - 1
 
 #### ASCII
 **American Standard Code for Information Interchange** is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
@@ -54,3 +51,16 @@ Pseudocode is an informal high-level description of the operating principle of a
 [Hello World!](./examples_c/hello_world.c)
 
 [conditions](./examples_c/conditions.c)
+
+[while loop](./examples_c/while_loop.c)
+
+[functions](./examples_c/functions.c)
+
+[floating numbers](./examples_c/floating.c)
+
+[math operators](./examples_c/math_operators.c)
+
+[doubles](./examples_c/doubles.c)
+
+* scopes - TBD
+* over and underflowing binary numbers - TBD
